@@ -1,0 +1,48 @@
+🔹 Task 1: Variable Declaration
+Explain the difference between var, let, and const.
+Declare three variables: one with var, one with let, and one with const.
+Describe when to use each type.
+
+
+🔹 Task 2: Using Operators
+List and explain different types of operators in JavaScript (Arithmetic, Comparison, Logical).
+Perform basic arithmetic operations (addition, subtraction, multiplication, division, and modulus).
+Explain how comparison operators work using examples.
+
+
+Task 3: Conditional Statements (if-else)
+Describe the purpose of conditional statements in JavaScript.
+Explain the structure of an if-else statement.
+Write a scenario where if-else is used (e.g., checking voting eligibility, exam grades, etc.).
+
+
+Task 4: Looping Statements
+Explain the purpose of loops in JavaScript.
+Compare for, while, and do-while loops.
+Give an example scenario where a loop is useful (e.g., printing numbers, iterating through an array).
+
+
+Task 5: Functions in JavaScript
+Define what a function is and why it's useful.
+Explain the difference between function declaration and function expression.
+Provide a real-life example where a function can be useful.
+
+
+Task 6: Logical Operators
+Explain the AND (&&), OR (||), and NOT (!) operators.
+Create a table showing the truth values of each logical operator.
+Describe a real-world scenario where logical operators are used.
+
+
+🔹 Task 7: JavaScript Syntax Rules
+List important syntax rules in JavaScript.
+Explain the importance of case sensitivity.
+Describe the role of semicolons (;) and curly braces ({}) in JavaScript.
+
+
+
+📌 Submission Instructions
+Write your answers in a structured format.
+Provide clear explanations with real-world examples.
+Ensure proper grammar and formatting for better readability.
+✅ This assignment will strengthen your understanding of JavaScript Statements & Syntax. Good luck! 🚀
